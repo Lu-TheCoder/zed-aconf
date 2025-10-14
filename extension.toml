@@ -8,3 +8,4 @@ repository = "https://github.com/Lu-TheCoder/zed-aconf"
 
 [grammars.aconf]
 repository = "https://github.com/Lu-TheCoder/tree-sitter-aconf"
+commit = "main"
