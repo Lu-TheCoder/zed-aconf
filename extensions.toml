@@ -1,0 +1,10 @@
+id = "aconf"
+name = "aconf"
+version = "0.1.0"
+schema_version = 1
+authors = ["LuTheCoder <luthecoder@gmail.com>"]
+description = "Aconf language support for Zed Editor"
+repository = "https://github.com/Lu-TheCoder/zed-aconf-extension"
+
+[grammars.json5]
+repository = "https://github.com/Lu-TheCoder/tree-sitter-aconf"
