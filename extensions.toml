@@ -6,5 +6,5 @@ authors = ["LuTheCoder <luthecoder@gmail.com>"]
 description = "Aconf language support for Zed Editor"
 repository = "https://github.com/Lu-TheCoder/zed-aconf-extension"
 
-[grammars.json5]
+[grammars.aconf]
 repository = "https://github.com/Lu-TheCoder/tree-sitter-aconf"
