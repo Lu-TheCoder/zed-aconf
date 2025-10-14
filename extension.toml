@@ -5,12 +5,8 @@ schema_version = 1
 authors = ["LuTheCoder <luthecoder@gmail.com>"]
 description = "Aconf language support for Zed Editor"
 repository = "https://github.com/Lu-TheCoder/zed-aconf"
+file_extensions = ["aconf"]
 
 [grammars.aconf]
 repository = "https://github.com/Lu-TheCoder/tree-sitter-aconf"
 commit = "70f6b0aa86a761a8d8bd159e958b1d0d12836e2d"
-file_extensions = ["aconf"]
-
-[languages.aconf]
-name = "Aconf"
-grammar = "aconf"
