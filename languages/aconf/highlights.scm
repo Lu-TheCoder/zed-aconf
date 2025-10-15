@@ -3,17 +3,16 @@
 
 (key) @constant
 (comment) @comment
-(integer) @number
-(float) @number
+(block_comment) @comment
+(number) @number
 (string) @string
 (null) @constant.builtin
-[(true) (false)] @constant.builtin.boolean
+(boolean) @constant.builtin.boolean
 
 ; Punctuation
 ;------------
 
 [
-  "."
   ","
 ] @punctuation.delimiter
 
@@ -23,8 +22,6 @@
 [
   "["
   "]"
-  "[["
-  "]]"
   "{"
   "}"
 ]  @punctuation.bracket
