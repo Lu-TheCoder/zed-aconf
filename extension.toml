@@ -8,5 +8,5 @@ repository = "https://github.com/Lu-TheCoder/zed-aconf"
 
 [grammars.aconf]
 repository = "https://github.com/Lu-TheCoder/tree-sitter-aconf"
-commit = "01c571633032dd271e281f43a9be02b529095a54"
+commit = "6861d022cb6fcba1bd660252b459abb64941c856"
 file_extensions = ["aconf"]
